@@ -1,0 +1,5 @@
+.avatar, .avatar2, .avatar3 {
+	width: 65px;
+	height: 75px;
+	border-radius: 50%;
+}
